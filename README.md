@@ -11,7 +11,7 @@ This is the root directory of the repository. The directory is structured as fol
     template-replication-package
      .
      |
-     |--- data/                            Final and intermediate data used in paper 
+     |--- data/                Final and intermediate data used in paper 
      |      |
      |      |--- rq1_data/     RQ1 data, including raw presence/interaction data, and coded research notes              
      |      |
