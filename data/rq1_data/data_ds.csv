@@ -1,0 +1,9 @@
+Lecture ID,Date,Presence (inperson/online),Interactions (inperson/online(online speaking live)),"Cameras on (unique, at least one time during the session)",Phone,Menti_interaction (max),Presentations (inperson/online),Lecture type
+1,6/9,8/49,3/13(8),10,3,-,-,Q&A
+2,13/9,6/46,03/11(6),8,1,40,-,Q&A
+3,20/9,9/46,05/12(6),3,-,38,-,Q&A
+4,27/9,5/43,02/12(4),4,1,37,-,Q&A
+5,30/9,20/30,10/0(0),1,-,-,3/1,student_presentation
+6,4/10,5/36,06/04(0),1,-,31,-,Q&A
+7,11/10,5/33,5/1(1),1,0,-,-,guest_lecture
+8,18/10,15/45,18/05(02),12,0,,-,guest_lecture

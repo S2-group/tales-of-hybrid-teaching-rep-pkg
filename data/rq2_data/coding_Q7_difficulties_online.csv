@@ -1,0 +1,49 @@
+raw_answer,Code,Category
+A clip-on microphone could solve the weak audio issues! ,audio,tech_setting
+Connection stability of TA,connection,tech_issue
+Difficult interaction,interaction,interaction_issue
+Feels somewhat harder to ask questions while online + harder to focus,"interaction, focus","interaction_issue, focus_issue"
+"For live sessions, the audio quality was mostly mediocre, resutling in hard-to-understand segments sometimes, especially when students were speaking. This was better with the pre-recorded lectures, however, as there is no way to engage with them directly, I found them rather boring and hard-to-follow, even though the content itself was interesting.","audio, prerecorded, boring","tech_setting,  prerecorded"
+Harder to ask questions,questions,interaction_issue
+I find it harder to dive really into the material that day. I feel sometimes a bit bad for the teacher if they ask a question and nobody responses to it online while the class room was almost empty all the time,"unmotivating, no_reply","interaction_issue, focus_issue"
+I was harder to focus,focus_issue,focus_issue
+"In-person people had higher priority, asking questions online took long time to answer",inperson_first,interaction_issue
+In-person were lot better than online classes. I attended a few online classes and it was not even close to the interaction you felt while being in-class.,inperson_first,interaction_issue
+It is harder to ask fast questions,inperson_first,interaction_issue
+"Low quality recordings, Recordings from previous years that contain information that's not relevant anymore, Distractions, Lack of interaction with teammates","prerecorded, focus issue, interact_with_students","tech_setting, focus issue, interact_with_students"
+"Often when something is opened up to the class to discuss / answer a question, it can be very difficult to hear them. With the pre recorded lectures from 2020 I can rarely hear the students at all. With the live lectures it usually isn't so bad, the setup is quite nice.","audio, prerecorded",tech_setting
+Scheduling and focus,"scheduling, focus",focus_issue
+Sometimes lost my attention,focus,focus_issue
+Sometimes the questions from classmates in the classroom can’t be heard clearly.,audio,tech_setting
+Sometimes there were audio issues,audio,tech_setting
+"The first Q&A showed up with an on-campus classroom number in my calendar so I went there and I had to follow the Q&A via Zoom by sharing someone else's laptop and headphones. It would be nice if it was made very clear in advance if the first session will be online, on-campus or hybrid.",scourse_schedule,course_structure
+Zoom links expiring mid-course,zoom,tech_issue
+none,,
+none,,
+none,,
+None,,
+none,,
+none,,
+none,,
+none,,
+none,,
+none,,
+None,,
+none,,
+none,,
+none,,
+NONE,,
+none,,
+none,,
+None,,
+None,,
+none,,
+none,,
+none,,
+None,,
+None,,
+none,,
+none,,
+None,,
+none,,
+None ,,
