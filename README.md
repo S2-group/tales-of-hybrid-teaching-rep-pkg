@@ -1,4 +1,4 @@
-# Tales of Hybrid Teaching: Implications and Lessons Learned of Teaching Software Engineering Courses during the COVID-19 Pandemic
+# Tales of Hybrid Teaching in Software Engineering: Lessons Learned and Guidelines
 This repository is a companion page for the following research, submitted for revision at the IEEE Transactions on Education journal:
 > Roberto Verdecchia, and Patricia Lago. 2022. Tales of Hybrid Teaching in Software Engineering: Lessons Learned and Guidelines. IEEE Transactions on Education.
 
